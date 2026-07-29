@@ -1,0 +1,9 @@
+import classical_models_computation_turing_machines_foundation_canonical_lane_mathlib.GateLemmas
+namespace HautevilleHouse
+namespace classical_models_computation_turing_machines_foundation_canonical_lane_mathlib
+structure ConstrainedTheoremClosure where
+  admissible :: intro :: constraint :: consequence :: proof ::
+theorem canonical : ConstrainedTheoremClosure :=
+  ConstrainedTheoremClosure.intro
+end classical_models_computation_turing_machines_foundation_canonical_lane_mathlib
+end HautevilleHouse
